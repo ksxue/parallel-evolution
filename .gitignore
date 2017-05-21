@@ -19,6 +19,7 @@ Ignore everything except things listed explicitly below
 !*.test
 !*.data
 !*.samples
+!*.xls
 
 # Don't ignore Markdown, reStructuredText, or Latex, or the HTML output of these files.
 !*.rst
