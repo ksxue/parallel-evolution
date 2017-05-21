@@ -1,0 +1,6 @@
+Gene AAChange NumPermutations pvalue
+4-HA NS 10000 0.1618
+6-NA NS 10000 0
+4-HA S 10000 0.9436
+6-NA S 10000 0.8954
+4-HA parallel 10000 7e-04

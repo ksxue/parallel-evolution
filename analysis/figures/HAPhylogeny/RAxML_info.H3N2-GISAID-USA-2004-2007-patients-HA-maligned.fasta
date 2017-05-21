@@ -1,0 +1,144 @@
+
+
+IMPORTANT WARNING: Sequences patientE_2007 and 24_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences patientE_2007 and 26_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences patientE_2007 and 35_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences patientE_2007 and 58_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 8_2007 and 16_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 8_2007 and 18_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 8_2007 and 19_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 8_2007 and 47_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 10_2007 and 54_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 10_2007 and 56_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 12_2007 and 21_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 12_2007 and 32_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 12_2007 and 33_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 12_2007 and 43_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 12_2007 and 59_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 22_2007 and 23_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 41_2007 and 45_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 41_2007 and 46_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 44_2007 and 57_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 49_2007 and 50_2007 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 83_2005 and 86_2005 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 87_2005 and 91_2005 are exactly identical
+
+IMPORTANT WARNING
+Found 22 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file analysis/figures/HAPhylogeny/H3N2-GISAID-USA-2004-2007-patients-HA-maligned.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.3 released by Alexandros Stamatakis on August 12 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 178 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 178
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-SSE3 -s analysis/figures/HAPhylogeny/H3N2-GISAID-USA-2004-2007-patients-HA-maligned.fasta -n H3N2-GISAID-USA-2004-2007-patients-HA-maligned.fasta -m GTRCAT -p 1 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.339 0.200 0.221 0.241 
+
+Inference[0]: Time 4.437402 CAT-based likelihood -3671.752689, best rearrangement setting 5
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 2.075345 7.681812 0.641890 0.000100 8.026558 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -4191.066270 tree written to file /net/akey/vol1/home/ksxue/flu/160527-public-datasets/RAxML_result.H3N2-GISAID-USA-2004-2007-patients-HA-maligned.fasta
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -4191.066270 .... 
+
+Final GAMMA-based Score of best tree -4191.066185
+
+Program execution info written to /net/akey/vol1/home/ksxue/flu/160527-public-datasets/RAxML_info.H3N2-GISAID-USA-2004-2007-patients-HA-maligned.fasta
+Best-scoring ML tree written to: /net/akey/vol1/home/ksxue/flu/160527-public-datasets/RAxML_bestTree.H3N2-GISAID-USA-2004-2007-patients-HA-maligned.fasta
+
+Overall execution time: 8.295846 secs or 0.002304 hours or 0.000096 days
+
